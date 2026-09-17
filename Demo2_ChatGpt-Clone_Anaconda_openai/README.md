@@ -1,9 +1,9 @@
 Setup Instructions
 
-1. Download and install Anaconda from Anaconda official website
+1. Download and install Anaconda from Anaconda official website: 
        https://www.anaconda.com/download
 
-3. Deactivate base enviornment and create new enviornment by using Anaconda prompt
+3. Deactivate base enviornment and create new enviornment by using Anaconda prompt: 
      conda create -n env_langchainApp python=3.12  
      conda activate env_langchainApp
   
